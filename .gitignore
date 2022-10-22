@@ -1,0 +1,5 @@
+node_modules
+dist
+
+# Definitely don't want that on git
+.env
